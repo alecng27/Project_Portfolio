@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Deployment_Instructions.md
+build
+node_modules
+package-lock.json
+package.json
+public
+src
