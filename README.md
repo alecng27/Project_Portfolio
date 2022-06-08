@@ -11,7 +11,7 @@ https://alecng27.github.io/Project_Portfolio/
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations.
 
-
+![](Website_Image.png)
 
 ## Structure ⚓
 
