@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/Project_Portfolio/static/css/main.a9b4c716.chunk.css",
-    "main.js": "/Project_Portfolio/static/js/main.50fe7c9f.chunk.js",
-    "main.js.map": "/Project_Portfolio/static/js/main.50fe7c9f.chunk.js.map",
+    "main.js": "/Project_Portfolio/static/js/main.60fbcb01.chunk.js",
+    "main.js.map": "/Project_Portfolio/static/js/main.60fbcb01.chunk.js.map",
     "runtime-main.js": "/Project_Portfolio/static/js/runtime-main.d620d171.js",
     "runtime-main.js.map": "/Project_Portfolio/static/js/runtime-main.d620d171.js.map",
-    "static/js/2.765c1835.chunk.js": "/Project_Portfolio/static/js/2.765c1835.chunk.js",
-    "static/js/2.765c1835.chunk.js.map": "/Project_Portfolio/static/js/2.765c1835.chunk.js.map",
+    "static/js/2.b72c90b1.chunk.js": "/Project_Portfolio/static/js/2.b72c90b1.chunk.js",
+    "static/js/2.b72c90b1.chunk.js.map": "/Project_Portfolio/static/js/2.b72c90b1.chunk.js.map",
     "index.html": "/Project_Portfolio/index.html",
-    "precache-manifest.80cd5680d9ec8deeb91a4565e1db8dab.js": "/Project_Portfolio/precache-manifest.80cd5680d9ec8deeb91a4565e1db8dab.js",
+    "precache-manifest.11d43a026b6b2525188b67f6efd5dc78.js": "/Project_Portfolio/precache-manifest.11d43a026b6b2525188b67f6efd5dc78.js",
     "service-worker.js": "/Project_Portfolio/service-worker.js",
     "static/css/main.a9b4c716.chunk.css.map": "/Project_Portfolio/static/css/main.a9b4c716.chunk.css.map",
-    "static/js/2.765c1835.chunk.js.LICENSE.txt": "/Project_Portfolio/static/js/2.765c1835.chunk.js.LICENSE.txt",
+    "static/js/2.b72c90b1.chunk.js.LICENSE.txt": "/Project_Portfolio/static/js/2.b72c90b1.chunk.js.LICENSE.txt",
     "static/media/Resume_Photo.jpg": "/Project_Portfolio/static/media/Resume_Photo.eb1ced4c.jpg",
+    "static/media/chase.png": "/Project_Portfolio/static/media/chase.854affef.png",
     "static/media/dao.png": "/Project_Portfolio/static/media/dao.a037407d.png",
+    "static/media/datacamp.png": "/Project_Portfolio/static/media/datacamp.40f3d3ab.png",
     "static/media/harvard.png": "/Project_Portfolio/static/media/harvard.c0ed05da.png",
     "static/media/hopestreet.png": "/Project_Portfolio/static/media/hopestreet.176d214e.png",
     "static/media/lawrence.png": "/Project_Portfolio/static/media/lawrence.9e848659.png",
@@ -21,8 +23,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d620d171.js",
-    "static/js/2.765c1835.chunk.js",
+    "static/js/2.b72c90b1.chunk.js",
     "static/css/main.a9b4c716.chunk.css",
-    "static/js/main.50fe7c9f.chunk.js"
+    "static/js/main.60fbcb01.chunk.js"
   ]
 }
